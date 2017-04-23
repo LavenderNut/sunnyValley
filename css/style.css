@@ -15,10 +15,18 @@
     color: #05F;
 }
 
+#wrapperTop .btn {
+    width: 130px;
+    height: 35px;
+    margin: 3px;
+}
+
 #topLogo {
     width: 125px;
     height: 100px;
 }
+
+
 
 .wrapper {
     font-family: Helvetica, Arial, sans-serif;
