@@ -1,6 +1,15 @@
 #wrapperTop {
+    width: 100%;
     background-color: #101010;
     font-family: Helvetica, Arial, sans-serif;
     color: #cccccc;
-    float: right;
+    padding: 5px;
+}
+#top-logo {
+    width: 125px;
+    height: 100px;
+}
+
+.wrapper {
+    font-family: Helvetica, Arial, sans-serif;
 }
