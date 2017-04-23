@@ -5,7 +5,17 @@
     color: #cccccc;
     padding: 5px;
 }
-#top-logo {
+
+#wrapperTop a {
+    color: white;
+    text-decoration: none;
+}
+
+#wrapperTop a:hover {
+    color: #05F;
+}
+
+#topLogo {
     width: 125px;
     height: 100px;
 }
