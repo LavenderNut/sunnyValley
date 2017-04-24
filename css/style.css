@@ -1,26 +1,3 @@
-#wrapperTop {
-    width: 100%;
-    background-color: #101010;
-    font-family: Helvetica, Arial, sans-serif;
-    color: #cccccc;
-    padding: 5px;
-}
-
-#wrapperTop a {
-    color: white;
-    text-decoration: none;
-}
-
-#wrapperTop a:hover {
-    color: #05F;
-}
-
-#wrapperTop .btn {
-    width: 130px;
-    height: 35px;
-    margin: 3px;
-}
-
 #topLogo {
     width: 125px;
     height: 100px;
@@ -41,9 +18,7 @@
 
 .promotionElement {
     position: relative;
-    border: 1px;
-    border-color: #cccccc;
-    border-style: dashed;
+    border: 1px dashed #ccc;
     margin-bottom: 20px;
 }
 
