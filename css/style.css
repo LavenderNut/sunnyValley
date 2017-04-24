@@ -33,3 +33,31 @@
 .thumbnail {
     border: none;
 }
+
+.promotionWrapper {
+    padding: 5px;
+    margin: 20px;
+}
+
+.promotionElement {
+    position: relative;
+    border: 1px;
+    border-color: #cccccc;
+    border-style: dashed;
+    margin-bottom: 20px;
+}
+
+.promotionElement p {
+    font-size: 16px;
+    font-family: "Arial Black", Arial, sans-serif;
+    text-decoration: none;
+}
+
+.imgPromo {
+    position: relative;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
